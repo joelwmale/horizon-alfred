@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#B8746AFF",
+        "font" : "Helvetica Neue",
+        "color" : "#B8746AFF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#26AF7EFF",
+        "font" : "Dank Mono",
+        "color" : "#25C48CFF"
+      },
+      "backgroundSelected" : "#480069E4",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#FB4176FF",
+        "font" : "Helvetica",
+        "color" : "#FB4176FF"
+      },
+      "iconPaddingHorizontal" : 3,
+      "paddingVertical" : 3,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 5,
+      "background" : "#0000001A",
+      "spacing" : 8,
+      "text" : {
+        "size" : 33,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Helvetica",
+        "color" : "#FB4176FF"
+      },
+      "backgroundSelected" : "#0000001A"
+    },
+    "window" : {
+      "color" : "#1C1F27FF",
+      "paddingHorizontal" : 6,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 15,
+      "roundness" : 6,
+      "paddingVertical" : 6
+    },
+    "credit" : "Joel Male",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#561A72FF",
+      "thickness" : 2
+    },
+    "name" : "Horizon"
+  }
+}
